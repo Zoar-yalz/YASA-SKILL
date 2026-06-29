@@ -1,0 +1,26 @@
+# YASA binaries (auto-downloaded)
+.yasa-tools/
+.yasa-workspace/
+.yasa-agent.json
+
+# UAST runtime deps (auto-created)
+deps/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# VSCode
+.vscode/
+
+# Archives (don't track old zip builds)
+*.zip
